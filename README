@@ -1,0 +1,5 @@
+command to compile
+	g++ bun10.cpp -lglut -lGLU -lm -o bun10
+	
+command to run	
+	./bun10<bun000_Structured_A.pcd
